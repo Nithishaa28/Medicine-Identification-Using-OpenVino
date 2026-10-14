@@ -1,0 +1,1828 @@
+[
+  {
+    "id": "MED_NEUROBION_FORTE",
+    "name": "Neurobion Forte",
+    "generic_name": "Vitamin B-Complex with Vitamin B12 (Thiamine, Riboflavin, Niacinamide, Calcium Pantothenate, Pyridoxine, Cyanocobalamin)",
+    "strength": "B-Complex + B12 (15 mcg)",
+    "dosage_form": "Sugar-coated Tablet / Blister Strip",
+    "manufacturer": "Procter & Gamble Health Ltd (P&G) / Merck Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Nerve Health & Vitamin B Supplement (Neuropathy, Nerve Damage & Paresthesia)",
+    "ocr_keywords": [
+      "NEUROBION FORTE",
+      "NEUROBION",
+      "NEUROBION-FORTE",
+      "NEURO BION",
+      "BION FORTE",
+      "B-COMPLEX WITH VITAMIN B12",
+      "B-COMPLEX",
+      "VITAMIN B12",
+      "VITAMIN B",
+      "PROCTER & GAMBLE",
+      "PROCTER AND GAMBLE",
+      "P&G",
+      "P & G",
+      "MERCK",
+      "CYANOCOBALAMIN",
+      "NICOTINAMIDE",
+      "PYRIDOXINE",
+      "THIAMINE"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Distinctive deep magenta/pink/red blister strip with silver foil backing, containing 30 small round bright red sugar-coated convex tablets",
+    "verified_note": "Verified nerve-strengthening therapeutic multivitamin B-complex formulation.",
+    "color_profile": "Red / Magenta / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Red"
+  },
+  {
+    "id": "MED_LOOSE_RED_ROUND",
+    "name": "Loose Red Sugar-Coated Round Tablet (Neurobion Appearance)",
+    "generic_name": "Sugar-Coated Solid Oral Dosage Form (Matches Neurobion Forte physical appearance)",
+    "strength": "Unverified without packaging",
+    "dosage_form": "Loose Tablet",
+    "manufacturer": "Requires Package Verification",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Solid Oral Vitamin / Coated Tablet",
+    "ocr_keywords": [],
+    "imprint_codes": [],
+    "visual_description": "Small bright red/magenta circular sugar-coated tablet with glossy convex surface",
+    "verified_note": "Physical features match red sugar-coated tablet (e.g. Neurobion Forte). Loose tablets without blister foil cannot be 100% verified.",
+    "color_profile": "Red / Magenta",
+    "tablet_shape": "Round",
+    "tablet_color": "Red"
+  },
+  {
+    "id": "MED_PAN40",
+    "name": "Pan 40",
+    "generic_name": "Pantoprazole Sodium Gastro-resistant Tablets IP",
+    "strength": "40 mg",
+    "dosage_form": "Gastro-resistant Tablet / Strip",
+    "manufacturer": "Alkem Laboratories Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Proton Pump Inhibitor (Gastric Acid & Peptic Ulcers)",
+    "ocr_keywords": [
+      "PAN 40",
+      "PAN40",
+      "PANTOPRAZOLE 40",
+      "PANTOPRAZOLE SODIUM",
+      "PANCAO",
+      "40 MG",
+      "ALKEM"
+    ],
+    "imprint_codes": [
+      "40",
+      "PAN 40",
+      "PAN"
+    ],
+    "visual_description": "Silver aluminium blister strip with yellow enteric-coated tablets, printed with PAN 40 and red Alkem branding",
+    "verified_note": "Verified clinical formulation for gastroesophageal reflux disease (GERD).",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_MEFTAL_SPAS",
+    "name": "Meftal-Spas",
+    "generic_name": "Mefenamic Acid IP (250 mg) + Dicyclomine Hydrochloride IP (10 mg)",
+    "strength": "250 mg / 10 mg",
+    "dosage_form": "Uncoated Tablet / Blister Strip",
+    "manufacturer": "Blue Cross Laboratories Pvt Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Antispasmodic & NSAID (Abdominal Pain, Spasms & Dysmenorrhea)",
+    "ocr_keywords": [
+      "MEFTAL-SPAS",
+      "MEFTAL SPAS",
+      "MEFTAL",
+      "MEFENAMIC ACID",
+      "DICYCLOMINE",
+      "BLUE CROSS",
+      "BLUECROSS",
+      "250 MG",
+      "10 MG"
+    ],
+    "imprint_codes": [
+      "MEFTAL",
+      "SPAS"
+    ],
+    "visual_description": "Silver blister strip with distinctive blue-red text, round uncoated light-yellow/white tablets",
+    "verified_note": "Verified antispasmodic combination.",
+    "color_profile": "White / Light Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_AUGMENTIN_625",
+    "name": "Augmentin 625 Duo",
+    "generic_name": "Amoxicillin IP (500 mg) + Potassium Clavulanate IP (125 mg)",
+    "strength": "625 mg (500 mg + 125 mg)",
+    "dosage_form": "Film-coated Tablet / Aluminium Strip",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Broad-spectrum Beta-lactamase Resistant Antibiotic",
+    "ocr_keywords": [
+      "AUGMENTIN",
+      "AUGMENTIN 625",
+      "AUGMENTIN 625 DUO",
+      "AMOXICILLIN",
+      "POTASSIUM CLAVULANATE",
+      "CLAVULANATE",
+      "625 MG",
+      "GSK"
+    ],
+    "imprint_codes": [
+      "AC",
+      "625"
+    ],
+    "visual_description": "Alu-alu strip packaging, white to off-white oval film-coated tablet",
+    "verified_note": "Prescription antibiotic; dosage regimen adherence critical.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_CALPOL_500",
+    "name": "Calpol 500",
+    "generic_name": "Paracetamol IP",
+    "strength": "500 mg",
+    "dosage_form": "Tablet / Blister Strip",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Antipyretic & Analgesic (Mild to Moderate Fever & Pain)",
+    "ocr_keywords": [
+      "CALPOL 500",
+      "CALPOL500",
+      "CALPOL",
+      "PARACETAMOL 500",
+      "500 MG"
+    ],
+    "imprint_codes": [
+      "CALPOL",
+      "500"
+    ],
+    "visual_description": "White round tablet, silver blister with green and blue Calpol packaging",
+    "verified_note": "Standard antipyretic; observe maximum 4g daily paracetamol limit.",
+    "color_profile": "White / Green / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_CALPOL_650",
+    "name": "Calpol 650",
+    "generic_name": "Paracetamol IP",
+    "strength": "650 mg",
+    "dosage_form": "Tablet / Blister Strip",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Antipyretic & Analgesic (Fever & Body Pain)",
+    "ocr_keywords": [
+      "CALPOL 650",
+      "CALPOL-650",
+      "CALPOL650",
+      "PARACETAMOL 650",
+      "650 MG"
+    ],
+    "imprint_codes": [
+      "CALPOL",
+      "650"
+    ],
+    "visual_description": "White elongated caplet with breakline, blister strip with green accents",
+    "verified_note": "High-dose paracetamol formulation.",
+    "color_profile": "White / Green / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_SARIDON",
+    "name": "Saridon",
+    "generic_name": "Propyphenazone (150 mg) + Paracetamol (250 mg) + Caffeine (50 mg)",
+    "strength": "150 mg / 250 mg / 50 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Piramal Healthcare Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Analgesic & Antipyretic (Headache Relief)",
+    "ocr_keywords": [
+      "SARIDON",
+      "PROPYPHENAZONE",
+      "PARACETAMOL",
+      "CAFFEINE",
+      "PIRAMAL"
+    ],
+    "imprint_codes": [
+      "SARIDON"
+    ],
+    "visual_description": "Silver blister pack with red-blue Saridon branding, round white scored tablets",
+    "verified_note": "Fast-acting triple action headache relief formulation.",
+    "color_profile": "White / Red / Blue",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_DIGENE",
+    "name": "Digene",
+    "generic_name": "Dried Aluminium Hydroxide, Magnesium Hydroxide, Simethicone, Magnesium Aluminium Silicate",
+    "strength": "Antacid Formulation",
+    "dosage_form": "Chewable Tablet / Strip",
+    "manufacturer": "Abbott India Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Antacid & Antiflatulent (Acidity & Gas Relief)",
+    "ocr_keywords": [
+      "DIGENE",
+      "ANTACID",
+      "SIMETHICONE",
+      "ABBOTT",
+      "ACIDITY"
+    ],
+    "imprint_codes": [
+      "DIGENE"
+    ],
+    "visual_description": "Silver-orange strip with large round orange or pink chewable tablets embossed with DIGENE",
+    "verified_note": "Fast-acting chewable antacid.",
+    "color_profile": "Orange / Pink / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Orange"
+  },
+  {
+    "id": "MED_AZITHRAL_500",
+    "name": "Azithral 500",
+    "generic_name": "Azithromycin IP",
+    "strength": "500 mg",
+    "dosage_form": "Film-coated Tablet / Blister Strip",
+    "manufacturer": "Alembic Pharmaceuticals Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Macrolide Antibiotic (Respiratory & Soft Tissue Infections)",
+    "ocr_keywords": [
+      "AZITHRAL",
+      "AZITHRAL 500",
+      "AZITHRAL500",
+      "AZITHROMYCIN",
+      "500 MG",
+      "ALEMBIC"
+    ],
+    "imprint_codes": [
+      "AZITHRAL",
+      "500"
+    ],
+    "visual_description": "Blister strip of 3 or 5 white oblong film-coated tablets",
+    "verified_note": "Prescription macrolide antibiotic.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_COMBIFLAM",
+    "name": "Combiflam",
+    "generic_name": "Ibuprofen IP (400 mg) + Paracetamol IP (325 mg)",
+    "strength": "400 mg / 325 mg",
+    "dosage_form": "Film-coated Tablet / Blister Strip",
+    "manufacturer": "Sanofi India Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Non-steroidal Anti-inflammatory & Analgesic",
+    "ocr_keywords": [
+      "COMBIFLAM",
+      "IBUPROFEN",
+      "PARACETAMOL",
+      "400 MG",
+      "325 MG",
+      "SANOFI"
+    ],
+    "imprint_codes": [
+      "COMBIFLAM"
+    ],
+    "visual_description": "Silver blister pack with red-magenta branding, white oval coated tablets",
+    "verified_note": "Combination NSAID and analgesic.",
+    "color_profile": "White / Red / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_PANTOCID_40",
+    "name": "Pantocid 40",
+    "generic_name": "Pantoprazole Sodium IP",
+    "strength": "40 mg",
+    "dosage_form": "Gastro-resistant Tablet / Strip",
+    "manufacturer": "Sun Pharmaceutical Industries Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Proton Pump Inhibitor (Acid Reducer)",
+    "ocr_keywords": [
+      "PANTOCID",
+      "PANTOCID 40",
+      "PANTOCID40",
+      "SUN PHARMA",
+      "40 MG"
+    ],
+    "imprint_codes": [
+      "40",
+      "PANTOCID"
+    ],
+    "visual_description": "Alu-alu blister strip with orange-blue Sun Pharma logo, yellow enteric-coated tablets",
+    "verified_note": "Delayed-release proton pump inhibitor.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_ALLEGRA_120",
+    "name": "Allegra 120",
+    "generic_name": "Fexofenadine Hydrochloride IP",
+    "strength": "120 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "Sanofi India Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Non-sedating Second-generation Antihistamine",
+    "ocr_keywords": [
+      "ALLEGRA 120",
+      "ALLEGRA120",
+      "FEXOFENADINE 120",
+      "120 MG",
+      "SANOFI"
+    ],
+    "imprint_codes": [
+      "012",
+      "120"
+    ],
+    "visual_description": "Silver blister with purple accents, peach-colored capsule-shaped film-coated tablet",
+    "verified_note": "Allergy symptom relief without sedative properties.",
+    "color_profile": "Peach / Purple / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "Peach"
+  },
+  {
+    "id": "MED_TELMA_40",
+    "name": "Telma 40",
+    "generic_name": "Telmisartan IP",
+    "strength": "40 mg",
+    "dosage_form": "Tablet / Blister Strip",
+    "manufacturer": "Glenmark Pharmaceuticals Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Angiotensin II Receptor Antagonist (Antihypertensive)",
+    "ocr_keywords": [
+      "TELMA",
+      "TELMA 40",
+      "TELMA40",
+      "TELMISARTAN",
+      "40 MG",
+      "GLENMARK"
+    ],
+    "imprint_codes": [
+      "40",
+      "TELMA"
+    ],
+    "visual_description": "Alu-alu strip with blue Glenmark text, white to off-white oblong tablets",
+    "verified_note": "Antihypertensive medication for cardiovascular risk reduction.",
+    "color_profile": "White / Blue / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_BETADINE_10",
+    "name": "Betadine 10% Ointment",
+    "generic_name": "Povidone-Iodine Ointment USP 10% w/w",
+    "strength": "10% w/w (1% available iodine)",
+    "dosage_form": "Topical Ointment / Tube",
+    "manufacturer": "Win-Medicare Pvt Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Topical Antiseptic & Microbicide (Wound Care)",
+    "ocr_keywords": [
+      "BETADINE",
+      "POVIDONE-IODINE",
+      "POVIDONE IODINE",
+      "10%",
+      "OINTMENT",
+      "WIN-MEDICARE"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Yellow tube with brown/red Betadine logo and black screw cap",
+    "verified_note": "External antiseptic; do not apply to deep puncture wounds or ingestion.",
+    "color_profile": "Yellow / Brown",
+    "tablet_shape": "Tube",
+    "tablet_color": "Brown"
+  },
+  {
+    "id": "MED_OMNIGEL",
+    "name": "Omnigel",
+    "generic_name": "Diclofenac Diethylamine, Virgin Linseed Oil, Methyl Salicylate & Menthol Gel",
+    "strength": "1.16% w/w Diclofenac",
+    "dosage_form": "Topical Gel / Tube",
+    "manufacturer": "Cipla Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Topical Analgesic & Anti-inflammatory Gel",
+    "ocr_keywords": [
+      "OMNIGEL",
+      "DICLOFENAC GEL",
+      "CIPLA",
+      "PAIN RELIEF",
+      "GEL"
+    ],
+    "imprint_codes": [],
+    "visual_description": "White aluminum squeeze tube with red-blue Omnigel branding and flip-top cap",
+    "verified_note": "Topical relief for muscular and joint pain.",
+    "color_profile": "White / Red / Blue",
+    "tablet_shape": "Tube",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_BENADRYL",
+    "name": "Benadryl Cough Syrup",
+    "generic_name": "Diphenhydramine HCl, Ammonium Chloride, Sodium Citrate",
+    "strength": "14.08 mg / 138 mg per 5 ml",
+    "dosage_form": "Syrup / Bottle",
+    "manufacturer": "Johnson & Johnson Ltd",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Antitussive, Antihistamine & Expectorant (Cough Syrup)",
+    "ocr_keywords": [
+      "BENADRYL",
+      "COUGH FORMULA",
+      "DIPHENHYDRAMINE",
+      "SYRUP",
+      "JOHNSON"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Amber plastic bottle with red-white Benadryl label and white measuring cap",
+    "verified_note": "Cough syrup formulation; may induce drowsiness.",
+    "color_profile": "Amber / Red / White",
+    "tablet_shape": "Bottle",
+    "tablet_color": "Amber"
+  },
+  {
+    "id": "MED_LOOSE_TABLET_XB",
+    "name": "Generic Tablet (Imprint XB)",
+    "generic_name": "Solid Oral Dosage Form with Engraved XB Imprint",
+    "strength": "Unverified without packaging",
+    "dosage_form": "Loose Tablet",
+    "manufacturer": "Requires Package Verification",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Oral Tablet Formulation",
+    "ocr_keywords": [
+      "XB"
+    ],
+    "imprint_codes": [
+      "XB"
+    ],
+    "visual_description": "Yellow round/oval compressed tablet with embossed 'XB' imprint code",
+    "verified_note": "CAUTION: Loose tablet with imprint code 'XB'. Imprint alone indicates specific lot batch, but clinical confirmation requires pharmacy verification.",
+    "color_profile": "Yellow",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_LOOSE_WHITE_SCORED",
+    "name": "Generic White Round Scored Tablet",
+    "generic_name": "Unspecified Oral Solid Dosage Form",
+    "strength": "Unverified without packaging",
+    "dosage_form": "Loose Tablet",
+    "manufacturer": "Unknown without Packaging",
+    "is_in_53_classes": false,
+    "yolo_class_name": null,
+    "therapeutic_class": "Unidentified Solid Oral Tablet",
+    "ocr_keywords": [],
+    "imprint_codes": [],
+    "visual_description": "White round tablet with central score line and no distinctive imprint",
+    "verified_note": "CRITICAL SAFETY WARNING: Thousands of unrelated medications share this exact round white appearance. Visual features alone CANNOT reliably identify the medicine without packaging or laboratory assay.",
+    "color_profile": "White",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_ACEMIZ",
+    "name": "Acemiz",
+    "generic_name": "Aceclofenac IP",
+    "strength": "100 mg",
+    "dosage_form": "Film-coated Tablet / Blister Strip",
+    "manufacturer": "Lupin Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Acemiz",
+    "therapeutic_class": "NSAID (Pain & Osteoarthritis)",
+    "ocr_keywords": [
+      "ACEMIZ",
+      "ACECLOFENAC",
+      "100 MG",
+      "LUPIN"
+    ],
+    "imprint_codes": [
+      "ACEMIZ"
+    ],
+    "visual_description": "Silver blister pack with white round film-coated tablets",
+    "verified_note": "Anti-inflammatory pain reliever.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_ALLEGRA",
+    "name": "Allegra",
+    "generic_name": "Fexofenadine Hydrochloride IP",
+    "strength": "180 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "Sanofi India Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Allegra",
+    "therapeutic_class": "Antihistamine (Allergic Rhinitis & Urticaria)",
+    "ocr_keywords": [
+      "ALLEGRA",
+      "FEXOFENADINE",
+      "180 MG",
+      "SANOFI"
+    ],
+    "imprint_codes": [
+      "018",
+      "180"
+    ],
+    "visual_description": "Silver-purple blister strip, peach caplet-shaped tablets",
+    "verified_note": "Non-drowsy allergy medication.",
+    "color_profile": "Peach / Purple / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "Peach"
+  },
+  {
+    "id": "MED_ALPRAX_025",
+    "name": "Alprax 0-25",
+    "generic_name": "Alprazolam IP",
+    "strength": "0.25 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Torrent Pharmaceuticals Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Alprax 0-25",
+    "therapeutic_class": "Benzodiazepine (Anxiety & Panic Disorders)",
+    "ocr_keywords": [
+      "ALPRAX",
+      "ALPRAX 0.25",
+      "ALPRAX 0-25",
+      "ALPRAZOLAM",
+      "0.25 MG",
+      "TORRENT"
+    ],
+    "imprint_codes": [
+      "0.25",
+      "AL"
+    ],
+    "visual_description": "Small blister strip with blue printing, tiny white circular tablets",
+    "verified_note": "Schedule H / controlled psychotropic medication. Strict prescription required.",
+    "color_profile": "White / Blue / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_AMALONG",
+    "name": "Amalong",
+    "generic_name": "Amlodipine Besylate IP",
+    "strength": "5 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Cipla Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Amalong",
+    "therapeutic_class": "Calcium Channel Blocker (Hypertension & Angina)",
+    "ocr_keywords": [
+      "AMALONG",
+      "AMALONG 5",
+      "AMLODIPINE",
+      "5 MG"
+    ],
+    "imprint_codes": [
+      "5"
+    ],
+    "visual_description": "White octagonal or round tablets in foil blister",
+    "verified_note": "Cardiovascular antihypertensive.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_ATARAX",
+    "name": "Atarax",
+    "generic_name": "Hydroxyzine Hydrochloride IP",
+    "strength": "25 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "Dr. Reddy's Laboratories",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Atarax",
+    "therapeutic_class": "First-generation Antihistamine & Anxiolytic",
+    "ocr_keywords": [
+      "ATARAX",
+      "HYDROXYZINE",
+      "25 MG",
+      "DR. REDDY"
+    ],
+    "imprint_codes": [
+      "ATARAX"
+    ],
+    "visual_description": "Silver blister foil with white scored tablets",
+    "verified_note": "Symptomatic treatment of pruritus and anxiety.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_BECOZINC",
+    "name": "Becozinc",
+    "generic_name": "Vitamin B-Complex with Zinc & Vitamin C",
+    "strength": "Multivitamin & Zinc",
+    "dosage_form": "Capsule / Strip",
+    "manufacturer": "Dr. Reddy's Laboratories",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Becozinc",
+    "therapeutic_class": "Nutritional Supplement / Immunity Booster",
+    "ocr_keywords": [
+      "BECOZINC",
+      "B-COMPLEX",
+      "ZINC",
+      "VITAMIN B",
+      "VITAMIN C"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Green-white blister strip with dark maroon/brown capsules",
+    "verified_note": "Therapeutic multivitamin supplement.",
+    "color_profile": "Maroon / Green / White",
+    "tablet_shape": "Capsule",
+    "tablet_color": "Maroon"
+  },
+  {
+    "id": "MED_BIFILAC",
+    "name": "Bifilac",
+    "generic_name": "Lactobacillus, Streptococcus & Clostridium Probiotics",
+    "strength": "Probiotic Blend",
+    "dosage_form": "Capsule / Strip",
+    "manufacturer": "Tablets India Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Bifilac",
+    "therapeutic_class": "Probiotic Formulation (Gut Flora / Diarrhea)",
+    "ocr_keywords": [
+      "BIFILAC",
+      "PROBIOTIC",
+      "LACTOBACILLUS",
+      "TABLETS INDIA"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Silver blister strip containing transparent/white capsules",
+    "verified_note": "Restores intestinal microflora.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Capsule",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_CANITIZ",
+    "name": "Canitiz",
+    "generic_name": "Itraconazole IP",
+    "strength": "100 mg",
+    "dosage_form": "Hard Gelatin Capsule / Strip",
+    "manufacturer": "Sun Pharma",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Canitiz",
+    "therapeutic_class": "Triazole Antifungal",
+    "ocr_keywords": [
+      "CANITIZ",
+      "ITRACONAZOLE",
+      "100 MG"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Alu-alu strip with blue and white capsules containing micro-pellets",
+    "verified_note": "Systemic antifungal.",
+    "color_profile": "Blue / White / Silver",
+    "tablet_shape": "Capsule",
+    "tablet_color": "Blue-White"
+  },
+  {
+    "id": "MED_CETZINE",
+    "name": "Cetzine",
+    "generic_name": "Cetirizine Dihydrochloride IP",
+    "strength": "10 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Cetzine",
+    "therapeutic_class": "Antihistamine (Allergies & Hay Fever)",
+    "ocr_keywords": [
+      "CETZINE",
+      "CETIRIZINE",
+      "10 MG",
+      "GSK"
+    ],
+    "imprint_codes": [
+      "10"
+    ],
+    "visual_description": "Small clear blister pack with white circular tablets",
+    "verified_note": "Second generation antihistamine.",
+    "color_profile": "White / Clear",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_CIPLAR_10",
+    "name": "Ciplar 10",
+    "generic_name": "Propranolol Hydrochloride IP",
+    "strength": "10 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Cipla Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Ciplar 10",
+    "therapeutic_class": "Beta-blocker (Hypertension, Tremors & Migraine Prophylaxis)",
+    "ocr_keywords": [
+      "CIPLAR",
+      "CIPLAR 10",
+      "PROPRANOLOL",
+      "10 MG",
+      "CIPLA"
+    ],
+    "imprint_codes": [
+      "10"
+    ],
+    "visual_description": "Silver blister foil with small white round tablets",
+    "verified_note": "Non-selective beta adrenergic blocker.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_COFSILS",
+    "name": "Cofsils",
+    "generic_name": "Amylmetacresol & Dichlorobenzyl Alcohol",
+    "strength": "0.6 mg / 1.2 mg",
+    "dosage_form": "Lozenge / Blister Strip",
+    "manufacturer": "Cipla Health Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Cofsils",
+    "therapeutic_class": "Antiseptic Sore Throat Lozenge",
+    "ocr_keywords": [
+      "COFSILS",
+      "SORE THROAT",
+      "LOZENGES",
+      "CIPLA"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Foil strip with circular orange or yellow translucent lozenges",
+    "verified_note": "Oral antiseptic for throat discomfort.",
+    "color_profile": "Orange / Yellow",
+    "tablet_shape": "Round",
+    "tablet_color": "Orange"
+  },
+  {
+    "id": "MED_CRANMED",
+    "name": "Cranmed",
+    "generic_name": "Cranberry Extract & D-Mannose",
+    "strength": "Extract Blend",
+    "dosage_form": "Capsule / Sachet / Strip",
+    "manufacturer": "Fourrts Laboratories",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Cranmed",
+    "therapeutic_class": "Urinary Tract Health Supplement",
+    "ocr_keywords": [
+      "CRANMED",
+      "CRANBERRY",
+      "D-MANNOSE"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Foil packaging with red cranberry imagery",
+    "verified_note": "Botanical and sugar supplement for urinary tract health.",
+    "color_profile": "Red / White",
+    "tablet_shape": "Capsule",
+    "tablet_color": "Red"
+  },
+  {
+    "id": "MED_CYCLOPAM",
+    "name": "Cyclopam",
+    "generic_name": "Dicyclomine Hydrochloride IP (20 mg) + Paracetamol IP (500 mg)",
+    "strength": "20 mg / 500 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Indoco Remedies Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Cyclopam",
+    "therapeutic_class": "Antispasmodic & Analgesic (Spasmodic Pain)",
+    "ocr_keywords": [
+      "CYCLOPAM",
+      "DICYCLOMINE",
+      "PARACETAMOL",
+      "INDOCO",
+      "500 MG"
+    ],
+    "imprint_codes": [
+      "CYCLOPAM"
+    ],
+    "visual_description": "Silver blister strip with blue text and white round tablets",
+    "verified_note": "Spasmodic intestinal and biliary colic treatment.",
+    "color_profile": "White / Blue / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_D_RISE",
+    "name": "D-Rise",
+    "generic_name": "Cholecalciferol IP (Vitamin D3)",
+    "strength": "60,000 IU",
+    "dosage_form": "Soft Gelatin Capsule / Strip",
+    "manufacturer": "USV Pvt Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "D-Rise",
+    "therapeutic_class": "Vitamin D Supplement (Bone Health & Deficiency)",
+    "ocr_keywords": [
+      "D-RISE",
+      "D RISE",
+      "CHOLECALCIFEROL",
+      "60000 IU",
+      "60,000 IU",
+      "USV"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Blister strip containing golden yellow translucent oval softgels",
+    "verified_note": "High-dose weekly vitamin D supplement.",
+    "color_profile": "Golden Yellow",
+    "tablet_shape": "Oval",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_D_WELL",
+    "name": "D-Well",
+    "generic_name": "Cholecalciferol IP (Vitamin D3)",
+    "strength": "60,000 IU",
+    "dosage_form": "Soft Gelatin Capsule / Strip",
+    "manufacturer": "Ranbaxy / Sun Pharma",
+    "is_in_53_classes": true,
+    "yolo_class_name": "D-Well",
+    "therapeutic_class": "Vitamin D3 Formulation",
+    "ocr_keywords": [
+      "D-WELL",
+      "D WELL",
+      "CHOLECALCIFEROL",
+      "60K",
+      "SUN"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Foil blister with amber softgel capsules",
+    "verified_note": "Cholecalciferol deficiency treatment.",
+    "color_profile": "Amber",
+    "tablet_shape": "Oval",
+    "tablet_color": "Amber"
+  },
+  {
+    "id": "MED_D3_MORE_2K",
+    "name": "D3 More 2K",
+    "generic_name": "Cholecalciferol IP",
+    "strength": "2,000 IU",
+    "dosage_form": "Capsule / Strip",
+    "manufacturer": "Morepen Laboratories",
+    "is_in_53_classes": true,
+    "yolo_class_name": "D3 More 2K",
+    "therapeutic_class": "Daily Maintenance Vitamin D3",
+    "ocr_keywords": [
+      "D3 MORE",
+      "2K",
+      "2000 IU",
+      "CHOLECALCIFEROL"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Silver blister pack with small translucent yellow softgel capsules",
+    "verified_note": "Daily maintenance dose.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_DOLO_650",
+    "name": "Dolo-650",
+    "generic_name": "Paracetamol IP",
+    "strength": "650 mg",
+    "dosage_form": "Tablet / Blister Strip",
+    "manufacturer": "Micro Labs Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Dolo-650",
+    "therapeutic_class": "Antipyretic & Analgesic (Fever & Pain)",
+    "ocr_keywords": [
+      "DOLO-650",
+      "DOLO 650",
+      "DOLO650",
+      "PARACETAMOL 650",
+      "MICRO LABS",
+      "650 MG"
+    ],
+    "imprint_codes": [
+      "DOLO",
+      "650"
+    ],
+    "visual_description": "Green-white blister foil strip with white elongated caplet tablets",
+    "verified_note": "Widely prescribed antipyretic.",
+    "color_profile": "White / Green / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_ELDOPER",
+    "name": "Eldoper",
+    "generic_name": "Loperamide Hydrochloride IP",
+    "strength": "2 mg",
+    "dosage_form": "Capsule / Strip",
+    "manufacturer": "Micro Labs Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Eldoper",
+    "therapeutic_class": "Antidiarrheal (Acute Diarrhea)",
+    "ocr_keywords": [
+      "ELDOPER",
+      "LOPERAMIDE",
+      "2 MG",
+      "MICRO LABS"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Silver blister strip containing green and dark-green hard capsules",
+    "verified_note": "Slows intestinal peristalsis.",
+    "color_profile": "Green / Dark Green",
+    "tablet_shape": "Capsule",
+    "tablet_color": "Green"
+  },
+  {
+    "id": "MED_EMESET",
+    "name": "Emeset",
+    "generic_name": "Ondansetron Hydrochloride IP",
+    "strength": "4 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "Cipla Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Emeset",
+    "therapeutic_class": "5-HT3 Receptor Antagonist (Anti-emetic / Nausea)",
+    "ocr_keywords": [
+      "EMESET",
+      "EMESET 4",
+      "ONDANSETRON",
+      "4 MG",
+      "CIPLA"
+    ],
+    "imprint_codes": [
+      "4",
+      "EMESET"
+    ],
+    "visual_description": "Silver blister foil with small circular yellow film-coated tablets",
+    "verified_note": "Anti-nausea and vomiting medication.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_ETOSHINE_90",
+    "name": "Etoshine 90",
+    "generic_name": "Etoricoxib IP",
+    "strength": "90 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "Sun Pharma",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Etoshine 90",
+    "therapeutic_class": "Selective COX-2 Inhibitor (Severe Joint & Arthritis Pain)",
+    "ocr_keywords": [
+      "ETOSHINE",
+      "ETOSHINE 90",
+      "ETORICOXIB",
+      "90 MG",
+      "SUN"
+    ],
+    "imprint_codes": [
+      "90"
+    ],
+    "visual_description": "Alu-alu strip with white/off-white round film-coated tablets",
+    "verified_note": "Selective anti-inflammatory.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_ETOSHINE_MR",
+    "name": "Etoshine MR",
+    "generic_name": "Etoricoxib (60 mg) + Thiocolchicoside (4 mg)",
+    "strength": "60 mg / 4 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Sun Pharma",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Etoshine MR",
+    "therapeutic_class": "NSAID with Muscle Relaxant",
+    "ocr_keywords": [
+      "ETOSHINE MR",
+      "ETORICOXIB",
+      "THIOCOLCHICOSIDE",
+      "60 MG",
+      "4 MG"
+    ],
+    "imprint_codes": [
+      "MR"
+    ],
+    "visual_description": "Alu-alu blister pack with coated tablets",
+    "verified_note": "Spasm and muscular pain relief.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_FOLVITE",
+    "name": "Folvite",
+    "generic_name": "Folic Acid IP",
+    "strength": "5 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Pfizer Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Folvite",
+    "therapeutic_class": "Vitamin B9 Supplement (Anemia & Prenatal Support)",
+    "ocr_keywords": [
+      "FOLVITE",
+      "FOLIC ACID",
+      "5 MG",
+      "PFIZER"
+    ],
+    "imprint_codes": [
+      "5"
+    ],
+    "visual_description": "Silver blister pack with small distinct yellow circular tablets",
+    "verified_note": "Essential folate therapy.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_GELUSIL",
+    "name": "Gelusil",
+    "generic_name": "Aluminium Hydroxide, Magnesium Hydroxide & Dimethicone",
+    "strength": "Antacid Formulation",
+    "dosage_form": "Chewable Tablet / Strip",
+    "manufacturer": "Pfizer Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Gelusil",
+    "therapeutic_class": "Antacid & Antiflatulent (Heartburn & Indigestion)",
+    "ocr_keywords": [
+      "GELUSIL",
+      "ANTACID",
+      "ALUMINIUM HYDROXIDE",
+      "PFIZER"
+    ],
+    "imprint_codes": [
+      "GELUSIL"
+    ],
+    "visual_description": "Silver foil strip with pink/white round chewable tablets",
+    "verified_note": "Neutralizes gastric hyperacidity.",
+    "color_profile": "Pink / White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Pink"
+  },
+  {
+    "id": "MED_GESTORAB",
+    "name": "Gestorab",
+    "generic_name": "Rabeprazole Sodium IP",
+    "strength": "20 mg",
+    "dosage_form": "Enteric-coated Tablet / Strip",
+    "manufacturer": "Mankind Pharma",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Gestorab",
+    "therapeutic_class": "Proton Pump Inhibitor (Gastroesophageal Reflux)",
+    "ocr_keywords": [
+      "GESTORAB",
+      "RABEPRAZOLE",
+      "20 MG",
+      "MANKIND"
+    ],
+    "imprint_codes": [
+      "20"
+    ],
+    "visual_description": "Alu-alu strip with yellow enteric-coated tablets",
+    "verified_note": "Gastric acid secretion inhibitor.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_GLIMISAVE_M",
+    "name": "GlimiSave M 0-5",
+    "generic_name": "Glimepiride IP (0.5 mg) + Metformin Hydrochloride IP (500 mg)",
+    "strength": "0.5 mg / 500 mg",
+    "dosage_form": "Bilayered Tablet / Strip",
+    "manufacturer": "Eris Lifesciences Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "GlimiSave M 0-5",
+    "therapeutic_class": "Oral Antidiabetic (Type 2 Diabetes Mellitus)",
+    "ocr_keywords": [
+      "GLIMISAVE",
+      "GLIMISAVE M",
+      "GLIMEPIRIDE",
+      "METFORMIN",
+      "0.5 MG",
+      "500 MG"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Blister strip with oval bilayered pink-white tablets",
+    "verified_note": "Blood glucose regulating combination.",
+    "color_profile": "Pink-White / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "Pink"
+  },
+  {
+    "id": "MED_GLUXIT10",
+    "name": "Gluxit10",
+    "generic_name": "Dapagliflozin Propanediol IP",
+    "strength": "10 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "Alembic Pharmaceuticals Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Gluxit10",
+    "therapeutic_class": "SGLT-2 Inhibitor (Type 2 Diabetes & Heart Failure)",
+    "ocr_keywords": [
+      "GLUXIT",
+      "GLUXIT 10",
+      "GLUXIT10",
+      "DAPAGLIFLOZIN",
+      "10 MG"
+    ],
+    "imprint_codes": [
+      "10"
+    ],
+    "visual_description": "Alu-alu blister foil with yellow circular/diamond film-coated tablets",
+    "verified_note": "Renal glucose transporter inhibitor.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_M_STRONG",
+    "name": "M-Strong",
+    "generic_name": "Methylcobalamin, Alpha Lipoic Acid & Pyridoxine",
+    "strength": "Neurotropic Formulation",
+    "dosage_form": "Softgel Capsule / Strip",
+    "manufacturer": "Macleods Pharmaceuticals",
+    "is_in_53_classes": true,
+    "yolo_class_name": "M-Strong",
+    "therapeutic_class": "Neuroprotective Supplement (Diabetic Neuropathy)",
+    "ocr_keywords": [
+      "M-STRONG",
+      "M STRONG",
+      "METHYLCOBALAMIN",
+      "ALPHA LIPOIC ACID",
+      "MACLEODS"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Alu-alu blister pack with dark brown/black oblong softgels",
+    "verified_note": "Nerve health nutritional therapy.",
+    "color_profile": "Dark Brown / Black",
+    "tablet_shape": "Oval",
+    "tablet_color": "Brown"
+  },
+  {
+    "id": "MED_MEFTAL_250_DT",
+    "name": "Meftal 250 DT",
+    "generic_name": "Mefenamic Acid Dispersible IP",
+    "strength": "250 mg",
+    "dosage_form": "Dispersible Tablet / Strip",
+    "manufacturer": "Blue Cross Laboratories Pvt Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Meftal 250 DT",
+    "therapeutic_class": "NSAID Analgesic (Pediatric / Dispersible Pain Relief)",
+    "ocr_keywords": [
+      "MEFTAL 250",
+      "MEFTAL 250 DT",
+      "MEFTAL DT",
+      "MEFENAMIC ACID",
+      "250 MG",
+      "BLUE CROSS"
+    ],
+    "imprint_codes": [
+      "250"
+    ],
+    "visual_description": "Silver blister pack with white circular dispersible tablets",
+    "verified_note": "Dispersible mefenamic acid formulation.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_MELECOBALAMINE",
+    "name": "Melecobalamine",
+    "generic_name": "Mecobalamin (Vitamin B12)",
+    "strength": "1500 mcg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Generic Formulation",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Melecobalamine",
+    "therapeutic_class": "Vitamin B12 / Neuropathy Formulation",
+    "ocr_keywords": [
+      "MELECOBALAMINE",
+      "MECOBALAMIN",
+      "METHYLCOBALAMIN",
+      "1500 MCG"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Alu-alu foil blister with red/pink film-coated round tablets",
+    "verified_note": "Peripheral neuropathy supplement.",
+    "color_profile": "Red / Pink / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Red"
+  },
+  {
+    "id": "MED_MENOEASE",
+    "name": "Menoease",
+    "generic_name": "Soy Isoflavones, Calcium & Vitamin D3",
+    "strength": "Botanical Isoflavone Complex",
+    "dosage_form": "Capsule / Strip",
+    "manufacturer": "Nutraceutical",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Menoease",
+    "therapeutic_class": "Menopausal Symptom Relief Supplement",
+    "ocr_keywords": [
+      "MENOEASE",
+      "ISOFLAVONES",
+      "MENOPAUSE"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Foil blister pack with beige/brown capsules",
+    "verified_note": "Nutraceutical formulation.",
+    "color_profile": "Brown / Beige",
+    "tablet_shape": "Capsule",
+    "tablet_color": "Brown"
+  },
+  {
+    "id": "MED_METRONIDAZOLE",
+    "name": "Metronidazole",
+    "generic_name": "Metronidazole IP",
+    "strength": "400 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "JB Chemicals / Generic",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Metronidazole",
+    "therapeutic_class": "Nitroimidazole Antimicrobial (Amoebiasis & Anaerobic Infections)",
+    "ocr_keywords": [
+      "METRONIDAZOLE",
+      "FLAGYL",
+      "METROGYL",
+      "400 MG"
+    ],
+    "imprint_codes": [
+      "400"
+    ],
+    "visual_description": "Blister strip with light yellow round film-coated tablets",
+    "verified_note": "Antiprotozoal and anaerobic antibacterial.",
+    "color_profile": "Light Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_MONTAIR",
+    "name": "Montair",
+    "generic_name": "Montelukast Sodium IP",
+    "strength": "10 mg",
+    "dosage_form": "Film-coated Tablet / Strip",
+    "manufacturer": "Cipla Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Montair",
+    "therapeutic_class": "Leukotriene Receptor Antagonist (Asthma & Allergic Rhinitis)",
+    "ocr_keywords": [
+      "MONTAIR",
+      "MONTAIR 10",
+      "MONTELUKAST",
+      "10 MG",
+      "CIPLA"
+    ],
+    "imprint_codes": [
+      "10",
+      "M"
+    ],
+    "visual_description": "Alu-alu strip with beige/square rounded film-coated tablets",
+    "verified_note": "Prevents asthma attacks and treats allergies.",
+    "color_profile": "Beige / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Beige"
+  },
+  {
+    "id": "MED_MUVERA",
+    "name": "Muvera",
+    "generic_name": "Meloxicam IP",
+    "strength": "7.5 mg / 15 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Glenmark Pharmaceuticals",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Muvera",
+    "therapeutic_class": "NSAID (Arthritis & Joint Inflammation)",
+    "ocr_keywords": [
+      "MUVERA",
+      "MELOXICAM",
+      "GLENMARK"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Silver blister with pale yellow circular tablets",
+    "verified_note": "Anti-inflammatory pain therapy.",
+    "color_profile": "Pale Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_MYSOPAS",
+    "name": "Mysopas",
+    "generic_name": "Misoprostol IP",
+    "strength": "200 mcg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Torrent Pharmaceuticals",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Mysopas",
+    "therapeutic_class": "Synthetic Prostaglandin E1 Analogue",
+    "ocr_keywords": [
+      "MYSOPAS",
+      "MISOPROSTOL",
+      "200 MCG",
+      "TORRENT"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Alu-alu blister foil with white hexagonal tablets",
+    "verified_note": "Schedule H prescription medication.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_P_650",
+    "name": "P-650",
+    "generic_name": "Paracetamol IP",
+    "strength": "650 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Apex Laboratories",
+    "is_in_53_classes": true,
+    "yolo_class_name": "P-650",
+    "therapeutic_class": "Antipyretic & Analgesic (Fever / Body Ache)",
+    "ocr_keywords": [
+      "P-650",
+      "P 650",
+      "P650",
+      "PARACETAMOL 650",
+      "650 MG",
+      "APEX"
+    ],
+    "imprint_codes": [
+      "P650"
+    ],
+    "visual_description": "Blister strip with white capsule-shaped tablets",
+    "verified_note": "High-potency paracetamol.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_PACIMOL_650",
+    "name": "Pacimol650",
+    "generic_name": "Paracetamol IP",
+    "strength": "650 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Ipca Laboratories Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Pacimol650",
+    "therapeutic_class": "Antipyretic & Analgesic (Fever & Pain)",
+    "ocr_keywords": [
+      "PACIMOL",
+      "PACIMOL 650",
+      "PACIMOL650",
+      "PARACETAMOL 650",
+      "IPCA"
+    ],
+    "imprint_codes": [
+      "PACIMOL"
+    ],
+    "visual_description": "Silver blister strip with white elongated caplet tablets",
+    "verified_note": "Standard antipyretic formulation.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_PAN_20",
+    "name": "Pan 20",
+    "generic_name": "Pantoprazole Sodium Gastro-resistant Tablets IP",
+    "strength": "20 mg",
+    "dosage_form": "Gastro-resistant Tablet / Strip",
+    "manufacturer": "Alkem Laboratories Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Pan 20",
+    "therapeutic_class": "Proton Pump Inhibitor (Mild GERD / Acid Reflux)",
+    "ocr_keywords": [
+      "PAN 20",
+      "PAN20",
+      "PANTOPRAZOLE 20",
+      "20 MG",
+      "ALKEM"
+    ],
+    "imprint_codes": [
+      "20",
+      "PAN"
+    ],
+    "visual_description": "Alu-alu blister foil with yellow enteric-coated tablets and Pan 20 imprint",
+    "verified_note": "Lower strength pantoprazole for maintenance.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_PAN_D",
+    "name": "Pan-D",
+    "generic_name": "Pantoprazole Sodium (40 mg) + Domperidone (30 mg SR)",
+    "strength": "40 mg / 30 mg SR",
+    "dosage_form": "Sustained-release Capsule / Strip",
+    "manufacturer": "Alkem Laboratories Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Pan-D",
+    "therapeutic_class": "Proton Pump Inhibitor with Prokinetic (GERD with Nausea)",
+    "ocr_keywords": [
+      "PAN-D",
+      "PAN D",
+      "PAND",
+      "DOMPERIDONE",
+      "PANTOPRAZOLE",
+      "ALKEM",
+      "PROLONGED-RELEASE"
+    ],
+    "imprint_codes": [
+      "PAN-D"
+    ],
+    "visual_description": "Alu-alu foil blister strip containing bi-color yellow-white hard gelatin capsules with pellets",
+    "verified_note": "Capsule contains sustained release pellets.",
+    "color_profile": "Yellow-White / Silver",
+    "tablet_shape": "Capsule",
+    "tablet_color": "Yellow-White"
+  },
+  {
+    "id": "MED_PARACIP_650",
+    "name": "Paracip-650",
+    "generic_name": "Paracetamol IP",
+    "strength": "650 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Cipla Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Paracip-650",
+    "therapeutic_class": "Antipyretic & Analgesic (Fever / Mild Pain)",
+    "ocr_keywords": [
+      "PARACIP",
+      "PARACIP 650",
+      "PARACIP-650",
+      "PARACETAMOL 650",
+      "CIPLA"
+    ],
+    "imprint_codes": [
+      "CIPLA"
+    ],
+    "visual_description": "Blister strip with white scored caplets and Cipla logo",
+    "verified_note": "Fever management therapy.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_REDOTIL",
+    "name": "Redotil",
+    "generic_name": "Racecadotril IP",
+    "strength": "100 mg",
+    "dosage_form": "Hard Gelatin Capsule / Strip",
+    "manufacturer": "Dr. Reddy's Laboratories",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Redotil",
+    "therapeutic_class": "Enkephalinase Inhibitor (Acute Diarrhea)",
+    "ocr_keywords": [
+      "REDOTIL",
+      "RACECADOTRIL",
+      "100 MG",
+      "DR. REDDY"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Silver blister pack with white/ivory capsules",
+    "verified_note": "Intestinal antisecretory antidiarrheal.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Capsule",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_SHELCAL_500",
+    "name": "Shelcal 500",
+    "generic_name": "Calcium Carbonate (from Coral) 500 mg + Vitamin D3 250 IU",
+    "strength": "500 mg / 250 IU",
+    "dosage_form": "Tablet / Blister Strip",
+    "manufacturer": "Torrent Pharmaceuticals Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Shelcal 500",
+    "therapeutic_class": "Calcium & Vitamin D3 Supplement (Osteoporosis)",
+    "ocr_keywords": [
+      "SHELCAL",
+      "SHELCAL 500",
+      "CALCIUM",
+      "VITAMIN D3",
+      "TORRENT",
+      "500 MG"
+    ],
+    "imprint_codes": [
+      "SHELCAL"
+    ],
+    "visual_description": "Silver blister strip with large off-white oval/elongated tablets",
+    "verified_note": "Bone density support therapy.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_SIBELIUM_10MG",
+    "name": "Sibelium 10mg",
+    "generic_name": "Flunarizine Dihydrochloride IP",
+    "strength": "10 mg",
+    "dosage_form": "Capsule / Tablet / Strip",
+    "manufacturer": "Janssen / Johnson & Johnson",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Sibelium 10mg",
+    "therapeutic_class": "Calcium Channel Blocker (Migraine Prophylaxis & Vertigo)",
+    "ocr_keywords": [
+      "SIBELIUM",
+      "SIBELIUM 10",
+      "FLUNARIZINE",
+      "10 MG",
+      "JANSSEN"
+    ],
+    "imprint_codes": [
+      "10"
+    ],
+    "visual_description": "Blister strip with light grey/white tablets or capsules",
+    "verified_note": "Prophylactic therapy for chronic migraines.",
+    "color_profile": "Grey-White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_SOMPRAZ",
+    "name": "Sompraz",
+    "generic_name": "Esomeprazole Magnesium Trihydrate IP",
+    "strength": "40 mg",
+    "dosage_form": "Enteric-coated Tablet / Strip",
+    "manufacturer": "Sun Pharma",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Sompraz",
+    "therapeutic_class": "Proton Pump Inhibitor (GERD & Erosive Esophagitis)",
+    "ocr_keywords": [
+      "SOMPRAZ",
+      "SOMPRAZ 40",
+      "ESOMEPRAZOLE",
+      "40 MG",
+      "SUN"
+    ],
+    "imprint_codes": [
+      "40"
+    ],
+    "visual_description": "Alu-alu strip with pinkish/purple enteric-coated round tablets",
+    "verified_note": "S-isomer proton pump inhibitor.",
+    "color_profile": "Purple-Pink / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Pink"
+  },
+  {
+    "id": "MED_STREPSILS",
+    "name": "Strepsils",
+    "generic_name": "2,4-Dichlorobenzyl alcohol & Amylmetacresol",
+    "strength": "1.2 mg / 0.6 mg",
+    "dosage_form": "Lozenge / Blister Strip",
+    "manufacturer": "Reckitt Benckiser",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Strepsils",
+    "therapeutic_class": "Antibacterial & Antiviral Throat Lozenge",
+    "ocr_keywords": [
+      "STREPSILS",
+      "SORE THROAT",
+      "RECKITT"
+    ],
+    "imprint_codes": [
+      "S"
+    ],
+    "visual_description": "Foil blister with circular yellow/honey-lemon or orange lozenges embossed with 'S'",
+    "verified_note": "Topical throat comfort lozenge.",
+    "color_profile": "Yellow / Orange",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_TAYO60K",
+    "name": "Tayo60k",
+    "generic_name": "Cholecalciferol IP (Vitamin D3)",
+    "strength": "60,000 IU",
+    "dosage_form": "Tablet / Capsule / Strip",
+    "manufacturer": "Eris Lifesciences",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Tayo60k",
+    "therapeutic_class": "High-dose Vitamin D3 Supplement",
+    "ocr_keywords": [
+      "TAYO",
+      "TAYO 60K",
+      "TAYO60K",
+      "CHOLECALCIFEROL",
+      "60000 IU"
+    ],
+    "imprint_codes": [
+      "60K"
+    ],
+    "visual_description": "Alu-alu blister foil with yellow tablets or soft capsules",
+    "verified_note": "Weekly vitamin D replacement dose.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_TENDONEASE",
+    "name": "Tendonease",
+    "generic_name": "Collagen Peptide, Mucopolysaccharide & Vitamin C",
+    "strength": "Nutritional Complex",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Fourrts Laboratories",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Tendonease",
+    "therapeutic_class": "Tendon & Ligament Repair Supplement",
+    "ocr_keywords": [
+      "TENDONEASE",
+      "COLLAGEN",
+      "FOURRTS"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Blister strip with light yellow oblong coated tablets",
+    "verified_note": "Connective tissue nutritional supplement.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "Yellow"
+  },
+  {
+    "id": "MED_UDAPA_TRIO",
+    "name": "Udapa-Trio",
+    "generic_name": "Dapagliflozin + Sitagliptin + Metformin Hydrochloride SR",
+    "strength": "Triple Oral Antidiabetic",
+    "dosage_form": "Sustained-release Tablet / Strip",
+    "manufacturer": "Abbott India Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Udapa-Trio",
+    "therapeutic_class": "Triple Combination Antidiabetic (Type 2 Diabetes)",
+    "ocr_keywords": [
+      "UDAPA",
+      "UDAPA-TRIO",
+      "UDAPA TRIO",
+      "DAPAGLIFLOZIN",
+      "SITAGLIPTIN",
+      "METFORMIN",
+      "ABBOTT"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Alu-alu blister strip with large modified capsule-shaped bilayered tablets",
+    "verified_note": "Combination therapy for glycemic control.",
+    "color_profile": "Bilayered / Silver",
+    "tablet_shape": "Caplet",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_UNIENZYME",
+    "name": "Unienzyme",
+    "generic_name": "Fungal Diastase, Papain & Activated Charcoal",
+    "strength": "Enzyme & Adsorbent",
+    "dosage_form": "Sugar-coated Tablet / Strip",
+    "manufacturer": "Unichem Laboratories Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Unienzyme",
+    "therapeutic_class": "Digestive Enzyme & Antiflatulent",
+    "ocr_keywords": [
+      "UNIENZYME",
+      "DIASTASE",
+      "PAPAIN",
+      "CHARCOAL",
+      "UNICHEM"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Silver blister pack with distinct black/dark charcoal-coated round tablets",
+    "verified_note": "Relieves indigestion, bloating and flatulence.",
+    "color_profile": "Black / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Black"
+  },
+  {
+    "id": "MED_VELGUT",
+    "name": "Velgut",
+    "generic_name": "Probiotics & Prebiotics Combination",
+    "strength": "Gut Flora Strains",
+    "dosage_form": "Capsule / Strip",
+    "manufacturer": "Torrent Pharmaceuticals",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Velgut",
+    "therapeutic_class": "Gastrointestinal Probiotic Supplement",
+    "ocr_keywords": [
+      "VELGUT",
+      "PROBIOTIC",
+      "PREBIOTIC",
+      "TORRENT"
+    ],
+    "imprint_codes": [],
+    "visual_description": "Blister strip with white or clear capsules",
+    "verified_note": "Restores microbial homeostasis.",
+    "color_profile": "White / Clear",
+    "tablet_shape": "Capsule",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_VITAMIN_E",
+    "name": "Vitamin E",
+    "generic_name": "Tocopheryl Acetate IP (Evion)",
+    "strength": "400 mg",
+    "dosage_form": "Soft Gelatin Capsule / Strip",
+    "manufacturer": "Merck / Procter & Gamble",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Vitamin E",
+    "therapeutic_class": "Antioxidant / Vitamin E Supplement",
+    "ocr_keywords": [
+      "VITAMIN E",
+      "EVION",
+      "TOCOPHERYL",
+      "400 MG"
+    ],
+    "imprint_codes": [
+      "400"
+    ],
+    "visual_description": "Silver-green blister strip containing bright green translucent oval softgels",
+    "verified_note": "Antioxidant therapy for cellular protection.",
+    "color_profile": "Bright Green / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "Green"
+  },
+  {
+    "id": "MED_VOMIKIND",
+    "name": "Vomikind",
+    "generic_name": "Ondansetron Hydrochloride IP",
+    "strength": "4 mg",
+    "dosage_form": "Fast-dissolving Tablet / Strip",
+    "manufacturer": "Mankind Pharma Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Vomikind",
+    "therapeutic_class": "Anti-emetic (Nausea & Post-operative Vomiting)",
+    "ocr_keywords": [
+      "VOMIKIND",
+      "VOMIKIND 4",
+      "ONDANSETRON",
+      "4 MG",
+      "MANKIND"
+    ],
+    "imprint_codes": [
+      "4"
+    ],
+    "visual_description": "Silver blister strip with small white circular tablets",
+    "verified_note": "Prevents acute nausea.",
+    "color_profile": "White / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "White"
+  },
+  {
+    "id": "MED_ZINCOVIT",
+    "name": "Zincovit",
+    "generic_name": "Multivitamins, Multiminerals with Grape Seed Extract & Zinc",
+    "strength": "Multivitamin Complex",
+    "dosage_form": "Nutraceutical Tablet / Strip",
+    "manufacturer": "Apex Laboratories Ltd",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Zincovit",
+    "therapeutic_class": "Daily Nutritional & Immunity Supplement",
+    "ocr_keywords": [
+      "ZINCOVIT",
+      "MULTIVITAMIN",
+      "ZINC",
+      "APEX"
+    ],
+    "imprint_codes": [
+      "APEX"
+    ],
+    "visual_description": "Alu-alu strip with distinct brown/maroon oblong coated tablets",
+    "verified_note": "Immune support and micronutrient replenishment.",
+    "color_profile": "Brown-Maroon / Silver",
+    "tablet_shape": "Oval",
+    "tablet_color": "Brown"
+  },
+  {
+    "id": "MED_ZOFER",
+    "name": "Zofer",
+    "generic_name": "Ondansetron Hydrochloride IP",
+    "strength": "4 mg",
+    "dosage_form": "Tablet / Strip",
+    "manufacturer": "Sun Pharma",
+    "is_in_53_classes": true,
+    "yolo_class_name": "Zofer",
+    "therapeutic_class": "Anti-emetic (Chemotherapy / Post-op Nausea)",
+    "ocr_keywords": [
+      "ZOFER",
+      "ZOFER 4",
+      "ONDANSETRON",
+      "4 MG",
+      "SUN"
+    ],
+    "imprint_codes": [
+      "4"
+    ],
+    "visual_description": "Alu-alu strip with yellow circular coated tablets",
+    "verified_note": "5-HT3 receptor blocker for nausea.",
+    "color_profile": "Yellow / Silver",
+    "tablet_shape": "Round",
+    "tablet_color": "Yellow"
+  }
+]
